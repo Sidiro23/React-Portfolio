@@ -1,0 +1,50 @@
+[
+  {
+      "id": 1,
+      "name": "Backstage Connection",
+      "image": "https://user-images.githubusercontent.com/107494937/183947384-30cccec3-5c6b-4ddd-8fd8-5e8ee0e611d8.PNG",
+      "github": "https://github.com/Sidiro23/backstage-connection",
+      "deploy": " https://backstage-connection.herokuapp.com/",
+      "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+  },
+  {
+      "id": 2,
+      "name": "Have-A-Laugh",
+      "image": "https://user-images.githubusercontent.com/106550353/178621326-5b9449d6-f362-42c9-a679-f1806af4260c.jpeg",
+      "github": "https://github.com/Sidiro23/Have-A-Laugh",
+      "deploy": " https://sergeyholin.github.io/Have-A-Laugh/",
+      "topics": "HTML5, CSS, Javascript, JQuery, Bulma"
+  },
+  {
+      "id": 3,
+      "name": "Tech Blog",
+      "image": "https://user-images.githubusercontent.com/106550353/185005893-00e6f18b-1654-4777-90fc-4caf3e7f1810.jpeg",
+      "github": "https://github.com/Sidiro23/Tech-Blog",
+      "deploy": "https://techblog212121.herokuapp.com/",
+      "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+  },
+  {
+      "id": 4,
+      "name": "Weather App",
+      "image": "https://user-images.githubusercontent.com/106550353/178153669-05974bf2-96fa-4f92-b37f-41b217f94299.jpeg",
+      "github": "https://github.com/Sidiro23/Weather-App",
+      "deploy": "https://sidiro23.github.io/Weather-App/",
+      "topics": "moment.js, javascript, jQuery, localStorage, API"
+  },
+  {
+      "id": 5,
+      "name": "Social Network API",
+      "image": "https://user-images.githubusercontent.com/106550353/186300972-ce3e5c7f-cc0c-45bc-a0bd-45bc4136c8e9.png",
+      "github": "https://github.com/Sidiro23/Social-Network-API",
+      "deploy": "https://drive.google.com/file/d/1rPTWwdJUaFX6IrC0mX0WcnzDXWRRboAy/view",
+      "topics": "node, express, javascript, mongoDB, mongoose, nodemon,moment,insomnia"
+  },
+  {
+      "id": 6,
+      "name": "Work Day Scheduler",
+      "image": "https://user-images.githubusercontent.com/106550353/177457288-b6c1886f-a886-459b-a855-d52ae15612e2.jpeg",
+      "github": "https://github.com/Sidiro23/Work-Day-Scheduler",
+      "deploy": "https://sidiro23.github.io/Work-Day-Scheduler/",
+      "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+  }
+]
