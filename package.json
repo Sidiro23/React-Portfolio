@@ -1,7 +1,7 @@
 {
-  "name": "Portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sidiro23.github.io/React-Portfolio/",
+  "homepage": "https://sidiro23.github.io/React-Portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
