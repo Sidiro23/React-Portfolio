@@ -11,8 +11,7 @@ function Resume() {
           <h2 className="top-title">Savvas Sidiropoulos</h2>
           <ul>
             <li>
-              Core competencies in enterpirse content management, full-stack web
-              development, data architecture, and managing integrations.
+              Full Stack Web Development Bootcamp graduate.
             </li>
           </ul>
 
